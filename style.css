@@ -1,0 +1,29 @@
+h1#title{
+    text-align: center;
+    background-color: palegoldenrod;
+}
+
+h3#museo{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+div#quien{
+    background-color: orange;
+}
+
+p#descripción{
+    background-color: orange;
+}
+
+div#descripción{
+    background-color: orange;
+}
+div#final{
+    text-align: center;
+    background-color: blue;
+}
+
+span#color{
+    background-color: yellow;
+}
